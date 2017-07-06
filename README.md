@@ -1,2 +1,2 @@
 # hello-word
-the first project to get used to the workflow of GitHub
+The first project to get used to GitHub's workflow.
